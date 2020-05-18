@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ABCProject.iml" filepath="$PROJECT_DIR$/ABCProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fifthapplication/fifthapplication.iml" filepath="$PROJECT_DIR$/fifthapplication/fifthapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstapplication/firstapplication.iml" filepath="$PROJECT_DIR$/firstapplication/firstapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourthapplication/fourthapplication.iml" filepath="$PROJECT_DIR$/fourthapplication/fourthapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondapplication/secondapplication.iml" filepath="$PROJECT_DIR$/secondapplication/secondapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdapplication/thirdapplication.iml" filepath="$PROJECT_DIR$/thirdapplication/thirdapplication.iml" />
+    </modules>
+  </component>
+</project>
